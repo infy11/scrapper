@@ -1,0 +1,16 @@
+.fetch-url-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.fetch-url-card {
+    width: 50%
+
+}
+
+.primary-button {
+    margin-top: 20px;
+}
