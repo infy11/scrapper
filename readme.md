@@ -1,15 +1,14 @@
-# Covid Tracker Backend
+# SSR Scrapper
 
 ## Installation
 - npm install
-- npm start
+- npm run dev
 - visit `http://localhost:3000/`
 
 
-## Preview app
-https://rad-tulumba-598e3c.netlify.app/
 
 
 ## Notes
-- Github workflow action to create docker image and push it to github docker registry
+- This app is both client and server side rendered
+- To scale it further we need to implement a queue system in node js such as Bull
 
